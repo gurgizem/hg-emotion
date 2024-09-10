@@ -1,0 +1,4 @@
+Iterable Datasets represent a flexible way to handle large volumes of data in machine learning pipelines.
+They enable the sequential processing of data, allowing for efficient handling of datasets that might not fit entirely into memory.
+With Iterable Datasets, you can load batches of data on-the-fly, preprocess them, and feed them into your model incrementally.
+This process is crucial for optimizing computational resources and handling datasets that are too large to fit into memory entirely.
